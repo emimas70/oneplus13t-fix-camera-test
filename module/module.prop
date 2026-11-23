@@ -1,7 +1,7 @@
-id=oneplus13t-fix-camera
+id=oneplus13t-fix-camera-test
 name=Fixes camera for OnePlus 13T
-version=CPH2723_17.0.0.101
+version=CPH2723_17.0.1.201
 versionCode=17
-author=kinginu
+author=emimas70
 description=Fix camera for OnePlus 13T on OxygenOS.
-updateJson=https://raw.githubusercontent.com/kinginu/oneplus13t-fix-camera/main/update.json
+updateJson=https://raw.githubusercontent.com/emimas70/oneplus13t-fix-camera-test/main/update.json
